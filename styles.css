@@ -19,6 +19,14 @@ body {
     animation: fadeIn 1s ease-in-out;
 }
 
+.profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #3498db;
+}
+
 @keyframes fadeIn {
     from {
         opacity: 0;
