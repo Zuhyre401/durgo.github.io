@@ -1,1 +1,1 @@
-# durgo.github.io
+# zuhyre.io
